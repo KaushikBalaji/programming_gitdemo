@@ -1,2 +1,2 @@
 # programming_gitdemo
-Git comcepts to be covered in this repo
+Git concepts to be covered in this repo
